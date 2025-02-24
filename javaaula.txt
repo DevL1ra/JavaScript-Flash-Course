@@ -1,0 +1,11 @@
+/*  ***
+******************Regras variáves javaScrpit***********************
+
+ Nomes  podem conter letras, digitos , underscore ( _ ), e cifrões ( $ ).
+ 
+ Os nomes precisam começar com uma letra cifrão ou underscore.
+
+ Nomes são case-sensitive ("customer", é diferente de "Customer").
+ 
+ Reserved words (let,const,var function,etc) não podem ser usadas como nomes.
+ 
